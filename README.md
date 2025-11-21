@@ -20,7 +20,7 @@ Este projeto utiliza Python para fazer web scraping de vagas públicas no Linked
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/diogo0587/linkedin-job-scraper2.git
-cd linkedin-job-scraper2
+cd linkedin-job-scraper
 ```
 
 ### 2. Instale as dependências
